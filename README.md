@@ -1,6 +1,6 @@
 ### Hi there myself Kartikay Gupta 👋
 
-* 🏫 I'm currently pursuing B.Tech in Mechanical Engineering at IIT Patna. I am a curious individual with an ability to adapt to changes.
+🏫 I'm currently pursuing B.Tech in Mechanical Engineering at IIT Patna. I am a curious individual with an ability to adapt to changes.
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning DSA and actively involved in competitive programming. 
