@@ -12,4 +12,4 @@
 
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/kartikay-gupta/"><img src="https://www.freepik.com/free-vector/hipster-realistic-photo-camera-icon_10704118.htm#page=1&query=black%20logo%20insta&position=0&from_view=search" style="height:50px; width:auto;"/></a>
+<a href="https://www.linkedin.com/in/kartikay-gupta/"><img src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" style="height:50px; width:auto;"/></a>
