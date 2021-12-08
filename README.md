@@ -12,4 +12,4 @@
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/kartikay-gupta/"><img src="https://icons-for-free.com/iconfiles/png/512/black+line+linkedin+social+icon-1320191608689709544.png" style="height:50px; width:auto;"/></a>
-<a href="https://www.linkedin.com/in/kartikay-gupta/"><img src="https://icons-for-free.com/iconfiles/png/512/black+line+linkedin+social+icon-1320191608689709544.png" style="height:50px; width:auto;"/></a>
+<a href="https://www.linkedin.com/in/kartikay-gupta/"><img src="http://assets.stickpng.com/images/5ecec78673e4440004f09e77.png" style="height:50px; width:auto;"/></a>
