@@ -11,5 +11,5 @@
 - 📑 [Resume](https://drive.google.com/file/d/1DIZf9ePO0BGsF7ZH5QSSq8H47J-Yo2hK/view?usp=sharing)
 
 ### Connect with me
-<a href="https://www.linkedin.com/in/kartikay-gupta/"><img src="https://icons-for-free.com/iconfiles/png/512/black+line+linkedin+social+icon-1320191608689709544.png" style="height:50px; width:auto;"/></a>
+
 <a href="https://www.linkedin.com/in/kartikay-gupta/"><img src="https://www.freepik.com/free-vector/hipster-realistic-photo-camera-icon_10704118.htm#page=1&query=black%20logo%20insta&position=0&from_view=search" style="height:50px; width:auto;"/></a>
