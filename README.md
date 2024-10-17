@@ -7,7 +7,7 @@
 - 🧑‍💼 Looking for an internship opportunity.
 - 💬 Ask me about anything. I would love to help.
 - 📖 Know more about me: [Portfolio](https://kartikay-gupta.netlify.app/)
-- 📫 Reach me: kartikay_2001me32@iitp.ac.in
+- 📫 Reach me: kartikay.gupta2002@gmail.com
 - 📑 [Resume](https://drive.google.com/file/d/1DIZf9ePO0BGsF7ZH5QSSq8H47J-Yo2hK/view?usp=sharing)
 
 ### Connect with me
