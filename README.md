@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning DSA and actively involved in competitive programming. 
 - 🧑‍💼 Looking for an internship opportunity.
 - 💬 Ask me about anything. I would love to help.
-- 📖 Know more about me: [Portfolio](https://kartikay-gupta.netlify.app/)
+- 📖 Know more about me: [Portfolio](https://unfilteredme.netlify.app/)
 - 📫 Reach me: kartikay.gupta2002@gmail.com
 - 📑 [Resume](https://drive.google.com/file/d/1DIZf9ePO0BGsF7ZH5QSSq8H47J-Yo2hK/view?usp=sharing)
 
